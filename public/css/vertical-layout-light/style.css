@@ -14914,7 +14914,7 @@ a.close.disabled {
 }
 
 .bg-primary, .settings-panel .color-tiles .tiles.primary {
-  background-color: #f2125e !important;
+  background-color: #FCF0FF !important;
 }
 
 a.bg-primary:hover, .settings-panel .color-tiles a.tiles.primary:hover, a.bg-primary:focus, .settings-panel .color-tiles a.tiles.primary:focus,
@@ -20073,7 +20073,7 @@ code {
 }
 
 .card .card-body {
-  padding: 1.875rem 1.875rem;
+  /* padding: 1.875rem 1.875rem; */
 }
 
 .card .card-body + .card-body {
@@ -22850,7 +22850,7 @@ body.avgrund-active {
   background: rgba(0, 0, 0, 0.8);
   width: 100px;
   margin-left: -50px;
-  -webkit-transition: 0.1s left, 0.1s top;
+ 
 }
 
 .wysi-editor .wrap {
