@@ -23077,7 +23077,7 @@ body.avgrund-active {
   flex-direction: row;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 64px;
+  /* padding-top: 64px; */
 }
 
 .page-body-wrapper.full-page-wrapper {

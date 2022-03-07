@@ -12,5 +12,8 @@ use App\Http\Controllers\HomeController;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::get('/main', function () {
+    return view('tips-trick.main-page');
+});
 Route::get('/',[HomeController::class,'homepage'])->name('homepage');
+
